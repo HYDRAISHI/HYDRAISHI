@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HYDRAISHI
-- 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding, Game dev, App dev and Web dev.
+- 🌱 I’m currently learning Python and C#
 
 <!---
 HYDRAISHI/HYDRAISHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
